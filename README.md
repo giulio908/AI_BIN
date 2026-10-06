@@ -38,7 +38,7 @@ The problem: waste sorting depends entirely on human attention. Concestino autom
 
 
 <div align="center">
-    <img src="doc/automa.png" alt="automa" width="800"/>
+    <img src="doc/automa.jpg" alt="automa" width="800"/>
 </div>   
 
 
