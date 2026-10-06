@@ -104,7 +104,7 @@ The problem: waste sorting depends entirely on human attention. Concestino autom
 | Plate rotation servo | TIM1 CH1 |
 | Plate tilt servo | TIM1 CH2 and CH3 |
 
-The complete wiring diagram is in the slides in [`docs/`](docs/).
+
 
 ### Result encoding (3 bits)
 
