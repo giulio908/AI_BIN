@@ -1,8 +1,8 @@
-# ♻️ Concestino
+# ♻️ Smart system for separate waste collection
 
 **Smart system for separate waste collection**
 
-Concestino is a "smart" bin that automatically recognizes the material of an object placed on a movable plate and sorts it into the correct container (paper, plastic/metal, glass, organic). Recognition is performed by a neural network running locally on a **Raspberry Pi 5**, while real-time control of sensors and actuators is handled by an **STM32F303 Discovery**.
+AI_BIN is a "smart" bin that automatically recognizes the material of an object placed on a movable plate and sorts it into the correct container (paper, plastic/metal, glass, organic). Recognition is performed by a neural network running locally on a **Raspberry Pi 5**, while real-time control of sensors and actuators is handled by an **STM32F303 Discovery**.
 
 
 ---
@@ -36,21 +36,20 @@ The problem: waste sorting depends entirely on human attention. Concestino autom
 
 ### Operating cycle state machine
 
-```
+
     <div align="center">
         <img src="doc/automa.png" alt="automa" width="800"/>
     </div>   
-```
+
 
 ---
 
 ## 🏗️ Architecture
 
-```
+
     <div align="center">
         <img src="doc/architecture.png" alt="architecture" width="800"/>
     </div>  
-```
 
 | Module | Hardware | Role |
 |---|---|---|
