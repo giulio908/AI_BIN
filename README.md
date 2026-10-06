@@ -37,19 +37,18 @@ The problem: waste sorting depends entirely on human attention. Concestino autom
 ### Operating cycle state machine
 
 
-    <div align="center">
-        <img src="doc/automa.png" alt="automa" width="800"/>
-    </div>   
+<div align="center">
+    <img src="doc/automa.png" alt="automa" width="800"/>
+</div>   
 
 
 ---
 
 ## 🏗️ Architecture
 
-
-    <div align="center">
-        <img src="doc/architecture.png" alt="architecture" width="800"/>
-    </div>  
+<div align="center">
+    <img src="doc/architecture.png" alt="architecture" width="800"/>
+</div>  
 
 | Module | Hardware | Role |
 |---|---|---|
